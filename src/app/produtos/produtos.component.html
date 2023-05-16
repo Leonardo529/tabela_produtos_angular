@@ -1,0 +1,26 @@
+<div class="bg-dark">
+<div class="container-light text-center ">
+  <h1 class="text-light">Carros de Luxo</h1>
+  <table class="table table-light">
+    <thead class="thead-secondary">
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Nome</th>
+        <th scope="col">Marca</th>
+        <th scope="col">Preço</th>
+        <th scope="col">Quantidade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let Produto of produtos">
+        <th scope="row">{{Produto.id}}</th>
+        <td>{{Produto.nome}}</td>
+        <td>{{Produto.marca}}</td>
+        <td>{{Produto.preco}}</td>
+        <td>{{Produto.quantidade}}</td>
+      </tr>
+      <tr>
+    </tbody>
+  </table>
+</div>
+</div>

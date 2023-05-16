@@ -1,0 +1,39 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "nome": "Broadway",
+      "marca": "Classique",
+      "preco": "$925.000",
+      "quantidade": 5
+    },
+    {
+      "id": 2,
+      "nome": "Ignus",
+      "marca": "Pegassi",
+      "preco": "$2.765.000",
+      "quantidade": 3
+    },
+    {
+      "id": 3,
+      "nome": "Entity MT",
+      "marca": "Överflöd",
+      "preco": "$2.355.000",
+      "quantidade": 1
+    },
+    {
+      "id": 4,
+      "nome": "Paragon R",
+      "marca": "Enus",
+      "preco": "$905.000",
+      "quantidade": 22
+    },
+    {
+      "id": 5,
+      "nome": "Hustler",
+      "marca": "Vapid",
+      "preco": "$625.000",
+      "quantidade": 36
+    }
+  ]
+}
